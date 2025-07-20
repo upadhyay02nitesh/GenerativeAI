@@ -1,8 +1,8 @@
-TATA CONSULTANCY SERVICES (TCS) - COMPANY INFORMATION
+Company CONSULTANCY SERVICES (Company) - COMPANY INFORMATION
 HISTORY:
-Founded in 1968 as part of the Tata Group
+Founded in 1968 as part of the Group
 
-Initial purpose was to serve Tata Group companies with IT services
+Initial purpose was to serve companies with IT services
 
 First international office opened in New York (1973)
 
@@ -13,7 +13,7 @@ Became first Indian IT company to reach $100 billion market cap (2018)
 POLICIES:
 Human Resources Policies:
 
-Training & Development: Extensive learning programs via TCS Learning Academy
+Training & Development: Extensive learning programs via Company Learning Academy
 
 Code of Conduct: Strict ethical guidelines and anti-harassment policies
 
@@ -98,21 +98,21 @@ MILESTONES:
 
 2024: Expanded AI & cloud services
 
-Tata Consultancy Services (TCS) is one of the world's largest IT services companies, and client relationships are at the heart of its business model. Here's a breakdown of TCS's client relationship model and some notable project types it handles for global clients:
+Company Consultancy Services (Company) is one of the world's largest IT services companies, and client relationships are at the heart of its business model. Here's a breakdown of Company's client relationship model and some notable project types it handles for global clients:
 
-✅ TCS Client Relationship Overview
-TCS follows a “Customer-Centric” approach focusing on long-term strategic partnerships.
+✅ Company Client Relationship Overview
+Company follows a “Customer-Centric” approach focusing on long-term strategic partnerships.
 
 🔹 1. Key Client Strategies
 Account-Based Structure: Each major client is managed by a dedicated account manager and team.
 
-Long-Term Engagements: Many clients stay with TCS for over a decade.
+Long-Term Engagements: Many clients stay with Company for over a decade.
 
 Partnership-Oriented: Focus on becoming a strategic partner, not just a vendor.
 
-Innovation Labs & Co-innovation Network (COIN™): TCS sets up dedicated labs with key clients to co-develop solutions.
+Innovation Labs & Co-innovation Network (COIN™): Company sets up dedicated labs with key clients to co-develop solutions.
 
-🔹 2. Top Industries TCS Serves
+🔹 2. Top Industries Company Serves
 Industry	Clients Examples
 Banking & Financial	Citibank, BNP Paribas, Deutsche Bank
 Retail & E-commerce	Walmart, Marks & Spencer, Target
@@ -122,7 +122,7 @@ Insurance	AIG, State Farm, AXA
 Healthcare & Pharma	Walgreens, GSK, CVS Health
 Travel & Hospitality	Marriott, Singapore Airlines
 
-✅ Common TCS Projects with Clients
+✅ Common Company Projects with Clients
 🔸 1. Application Development & Maintenance (ADM)
 Legacy modernization
 
@@ -182,29 +182,29 @@ Rolls-Royce	Built predictive maintenance models for jet engines using IoT & ML
 Marks & Spencer	Mobile app and AI-based customer insights system
 Airbus	Developed PLM (Product Lifecycle Management) and digital twin systems
 
-🌐 TCS Tools & Frameworks Often Used
-TCS MasterCraft: Automation for software delivery
+🌐 Company Tools & Frameworks Often Used
+Company MasterCraft: Automation for software delivery
 
-TCS BaNCS: For core banking transformation
+Company BaNCS: For core banking transformation
 
-TCS ADD: Drug development and clinical trials
+Company ADD: Drug development and clinical trials
 
 Ignio (by Digitate): Cognitive automation for IT ops
 
 ✅ Key Points to Mention in an Interview
-If you're asked about TCS client relations or projects, say something like:
+If you're asked about Company client relations or projects, say something like:
 
-"TCS maintains long-term, trust-based relationships with clients across industries. We don't just deliver software—we co-create value through innovation and digital transformation. For instance, with retail clients, TCS helps with omnichannel commerce, while for banking, we modernize legacy systems and improve compliance using AI and cloud technologies."
+"Company maintains long-term, trust-based relationships with clients across industries. We don't just deliver software—we co-create value through innovation and digital transformation. For instance, with retail clients, Company helps with omnichannel commerce, while for banking, we modernize legacy systems and improve compliance using AI and cloud technologies."
 
-✅ TCS Bench Policy (2025 Updated Overview)
-The TCS Bench Policy refers to the guidelines and processes for employees who are not currently assigned to a billable project (commonly called "on bench").
+✅ Company Bench Policy (2025 Updated Overview)
+The Company Bench Policy refers to the guidelines and processes for employees who are not currently assigned to a billable project (commonly called "on bench").
 
-🧾 What Does "Bench" Mean in TCS?
-In TCS, bench refers to:
+🧾 What Does "Bench" Mean in Company?
+In Company, bench refers to:
 
 A period when an employee is not actively working on a client project but is still part of the organization and receives a salary.
 
-🔹 Key Points of TCS Bench Policy
+🔹 Key Points of Company Bench Policy
 Aspect	Details
 Bench Duration Allowed	Typically up to 35–60 days (may vary by business unit)
 Full Salary Paid?	✅ Yes, for the allowed bench period
@@ -217,7 +217,7 @@ Expected Activities	- Mandatory training
 - Certifications
 - Internal projects
 Layoff Risk?	⚠️ Only in rare cases (if prolonged with no upskilling or poor performance)
-Re-deployment	TCS has a central Resource Management Group (RMG) to allocate resources to new projects quickly
+Re-deployment	Company has a central Resource Management Group (RMG) to allocate resources to new projects quickly
 
 🔧 What You Should Do While on Bench
 Action	Purpose
@@ -228,7 +228,7 @@ Action	Purpose
 📞 Stay in Touch with RMG	Regularly check status and availability
 
 🧠 Tip (If Asked in Interview)
-"TCS ensures that even during the bench period, employees are encouraged to upskill through platforms like iEvolve and Fresco Play. The Resource Management Group actively works to redeploy employees based on demand. It's a structured process designed to align skills with opportunities quickly."
+"Company ensures that even during the bench period, employees are encouraged to upskill through platforms like iEvolve and Fresco Play. The Resource Management Group actively works to redeploy employees based on demand. It's a structured process designed to align skills with opportunities quickly."
 
 📌 Bonus: Typical Bench Timeline (Example)
 Day	Activity
