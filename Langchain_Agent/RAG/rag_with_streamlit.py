@@ -204,15 +204,24 @@ if user_input := st.chat_input("Ask about Company..."):
     )
     
     # Get response
-    response = llm.invoke(full_prompt)
-    
-    # Update memory
-    memory.save_context({"input": user_input}, {"output": response.content})
-    
-    # Add assistant response to chat history
-    st.session_state.messages.append({"role": "assistant", "content": response.content})
+    # Create a Streamlit chat message container for the assistant
     with st.chat_message("assistant"):
-        st.markdown(response.content)
+        message_placeholder = st.empty()
+        full_response = ""
+
+        # Stream the response token-by-token (or chunk-by-chunk)
+        for chunk in llm.stream(full_prompt):
+            full_response += chunk.content
+            message_placeholder.markdown(full_response + "▌")  # Add blinking cursor
+
+        message_placeholder.markdown(full_response)  # Finalize the message without cursor
+
+    # Save to memory
+    memory.save_context({"input": user_input}, {"output": full_response})
+
+# Append to chat history
+    st.session_state.messages.append({"role": "assistant", "content": full_response})
+
 
 # Add About section with technology cards
 # Technologies section using st.write() with proper styling
